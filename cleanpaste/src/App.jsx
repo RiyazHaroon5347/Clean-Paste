@@ -463,11 +463,8 @@ export default function App() {
                 <h1 className="text-xl font-bold tracking-tight bg-gradient-to-r from-white via-zinc-200 to-zinc-400 bg-clip-text text-transparent">
                   CleanPaste
                 </h1>
-                <span className="px-2 py-0.5 text-[10px] font-semibold bg-indigo-500/10 border border-indigo-500/20 text-indigo-400 rounded-full">
-                  v2.0 Pro
-                </span>
               </div>
-              <p className="text-xs text-zinc-400">Instant AI-ready text sanitizer & layout fixer</p>
+              <p className="text-xs text-zinc-400">Instant text sanitizer & layout fixer</p>
             </div>
           </div>
 
@@ -1034,4 +1031,4 @@ export default function App() {
       )}
     </div>
   );
-}
+}
